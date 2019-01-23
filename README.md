@@ -1,4 +1,4 @@
-<p>トップ画面です</p>
+<p>トップ画面です。テキストを送信すると吹き出しが表示されます。</p>
 <br>
 <img src="https://github.com/ynd3k/img/blob/master/chat-top.png" width="420px" height="300px">
 
